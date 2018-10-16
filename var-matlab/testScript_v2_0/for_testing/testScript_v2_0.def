@@ -1,0 +1,9 @@
+LIBRARY testScript_v2_0
+EXPORTS
+testScript_v2_0Initialize
+testScript_v2_0InitializeWithHandlers
+testScript_v2_0Terminate
+testScript_v2_0PrintStackTrace
+mlxTestScript_v2_0
+mlfTestScript_v2_0
+
